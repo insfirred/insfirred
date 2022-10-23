@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋, I'm Kalash Saini</h1>
 <h3 align="center">Passionate Android Developer and Enthusiastic Programmer :)</h3>
 
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/R03zWv5p1oNSQd91EP/giphy.gif">
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/l3q2GDh3wQqVWSiGY/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=insfirred&label=Profile%20views&color=0e75b6&style=flat" alt="insfirred" /> </p>
 
