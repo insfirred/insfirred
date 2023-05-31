@@ -6,7 +6,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=insfirred&label=Profile%20views&color=0e75b6&style=flat" alt="insfirred" /> </p>
 
 - 🌱 I built Mobile Applications in **Flutter Framework**.
-- 💻 I do **Competitive Programming for fun**.
+- 💻 Former Intern @ **BuildIt Technologies**.
 - 📲 I'm currently an Android Developer @**GDSC JSS**.
 - 📫 How to reach me: mail me at [kalash27k@gmail.com](mailto:kalash27k@gmail.com).
 - 🤝 I love to build projects in a **team**.
